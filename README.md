@@ -1,6 +1,6 @@
 # Transmission with python
 
-Transmission docker container with python
+Transmission docker container with python, (also unrar, and a few extra python modules)
 
 This docker container uses [dperson/transmission](https://github.com/dperson/transmission) image as a base image and adds python. Mainly because I want to run a python script when torrents complete.
 
